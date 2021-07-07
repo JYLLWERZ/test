@@ -1,0 +1,21 @@
+{
+    "start_url": "/",
+    "name": "test pwa",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "image/lenn--nn02.png",
+        "sizes": "700x700",
+        "type": "image/png"
+      }
+    ],
+    "short_name": "JYL",
+    "theme_color": "#5ff222",
+
+    
+    
+    "background_color": "#5ff222",
+    "description": "Hey, at least it isn't cats."
+    
+
+  }
